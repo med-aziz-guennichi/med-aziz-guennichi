@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AzizGuennichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed aziz guennichi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed aziz guennichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed aziz guennichi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-aziz-guennichi-82b741267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed aziz guennichi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23246867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23246867" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100091736590227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed aziz guennichi" height="30" width="40" /></a>
 <a href="https://medium.com/@medazizguennichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medazizguennichi" height="30" width="40" /></a>
