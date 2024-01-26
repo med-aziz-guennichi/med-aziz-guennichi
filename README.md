@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=med-aziz-guennichi" alt="med-aziz-guennichi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamed aziz guennichi" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed aziz guennichi?logo=twitter&style=for-the-badge" alt="mohamed aziz guennichi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohamed aziz guennichi" target="blank"><img src="https://img.shields.io/twitter/follow/AzizGuennichi?logo=twitter&style=for-the-badge" alt="mohamed aziz guennichi" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://profile-guennichi-aziz.netlify.app/](https://profile-guennichi-aziz.netlify.app/)
 
