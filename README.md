@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 <h3 align="left">Wakatime Activity:</h3>
 <div align="left">
-<a href="https://wakatime.com/@0bd1a107-f240-4898-8e1b-03f6151440ef"><img src="https://wakatime.com/badge/user/0bd1a107-f240-4898-8e1b-03f6151440ef.svg" alt="Total time coded since Aug 13 2022" /></a>
+<a href="https://wakatime.com/@fccbc0ad-02bd-4202-8abe-4a9efc140a41"><img src="https://wakatime.com/badge/user/fccbc0ad-02bd-4202-8abe-4a9efc140a41.svg" alt="Total time coded since May 2 2024" /></a>
 </div>****
 <!--END_SECTION:waka-->
 ## 🌐 Socials:
