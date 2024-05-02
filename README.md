@@ -2,6 +2,10 @@
 🔭 I'm currently working on Typescript Projects<br>🌱 I’m currently learning C and C++<br>👯 I'm looking to collaborate on insightful projects<br>🤝 I'm looking for Full Stack Javascript/Typescript gigs<br>🧐 I'm currently exploring new technologies<br>📫 How to reach me: My social links below<br>⚡ Fun Fact: I am a debug freak
 
 <!--START_SECTION:waka-->
+<h3 align="left">Wakatime Activity:</h3>
+<div align="left">
+<a href="https://wakatime.com/@0bd1a107-f240-4898-8e1b-03f6151440ef"><img src="https://wakatime.com/badge/user/0bd1a107-f240-4898-8e1b-03f6151440ef.svg" alt="Total time coded since Aug 13 2022" /></a>
+</div>****
 <!--END_SECTION:waka-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-aziz-guennichi-82b741267) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23246867) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@med_aziz_code) 
