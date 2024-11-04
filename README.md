@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Med Aziz
 ================================================================================================================================
 
-Software developer
+Software engineer
 ------------------
 
 a passionate software engineer with a strong foundation in web development, specializing in TypeScript, JavaScript, and Rust, and continuously exploring new languages like C and C++. My projects reflect a versatile skill set, spanning from backend API development to sophisticated front-end user interfaces. I thrive on building full-stack solutions, with expertise in modern frameworks like Next.js, Express, and databases like MongoDB and Postgres. In my work, I emphasize clean code practices, scalability, and optimization. My recent projects include a Rust-based file explorer, an e-commerce dashboard, and multiple interactive applications that highlight my skills in both solo and collaborative environments. Beyond coding, I’m dedicated to learning and contributing to open-source projects, as I believe in the power of community-driven innovation. As a proactive developer, I prioritize deep problem-solving and debugging, ensuring reliable, maintainable software. Whether working on real-time applications, complex schemas, or performance-driven code, my aim is to deliver high-quality, impactful solutions. I'm always eager to collaborate on projects that push the boundaries of technology and offer opportunities for growth.
