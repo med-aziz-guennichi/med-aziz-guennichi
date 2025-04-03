@@ -26,14 +26,6 @@ a passionate software engineer with a strong foundation in web development, spec
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/med-aziz-guennichi"><img src="https://github-readme-stats-nine-beryl-92.vercel.app/api?username=med-aziz-guennichi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="med-aziz-guennichi's GitHub stats" /></a>
-
-<a href="http://www.github.com/med-aziz-guennichi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=med-aziz-guennichi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/med-aziz-guennichi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med-aziz-guennichi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/med-aziz-guennichi/aziz-file-explorer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=med-aziz-guennichi&repo=aziz-file-explorer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/med-aziz-guennichi/wifi-passwords" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=med-aziz-guennichi&repo=wifi-passwords&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
